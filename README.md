@@ -68,7 +68,7 @@ Refined search around best k
 
 Final chosen:
 
-k = YOUR_K_HERE
+k = 3
 
 🤖 Final Model
 
